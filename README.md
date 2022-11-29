@@ -1,5 +1,15 @@
 ### Hi there 👋
+I am K!
+<div id="header" align="left">
+  <img src="https://komarev.com/ghpvc/?username=kokkkkk" alt=""/>
+</div>
+📫 How to reach me: tszshankokts@gmail.com
 
+## Connect with me :globe_with_meridians::
+
+- <a href="https://www.linkedin.com/in/kay-tszshanko/">
+    My LinkedIn
+  </a>
 <!--
 **kokkkkk/kokkkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
